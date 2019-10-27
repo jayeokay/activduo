@@ -1,6 +1,6 @@
-# activDuo
+# activduo
 
-The activDuo project introduces a duo service that includes a new concept that 1. integrates activbody's force sensors with data-driven models into daily routines and 2. allows activbody's products to connect to additional devices such as smart watches.
+The activduo project introduces a duo service that includes a new concept that 1. integrates activbody's force sensors with data-driven models into daily routines and 2. allows activbody's products to connect to additional devices such as smart watches.
 
 ## 1. Integrating cutting-edge technology into everyday use
 activglov uses layered Force Sensitive Resistors (FSRs) to measure force through variable resistance. Attached to the glove would be microprocessors and BLE that would transmit data collected by the force sensors to the already existing smart phone application.
